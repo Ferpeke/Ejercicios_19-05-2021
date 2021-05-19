@@ -15,7 +15,7 @@
     <div class="row">
       <div class="col">
 
-        <div class="alert alert-primary" id="mostrar_saludo" role="alert">
+        <div class="alert alert-info text-center" id="mostrar_saludo" role="alert" style="font-family: monospace;">
           
         </div>
 
