@@ -19,7 +19,7 @@
 
       </div>
       <div class="col-sm-4">
-        <span class="btn btn-outline-primary" id="btn_vistar_documentos">Buscar</span>
+        <span class="btn btn-outline-primary" id="btn_visitar_documentos">Buscar</span>
 
       </div>
     </div>

@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $('#btn_vistar_documentos').click(function(){
+  $('#btn_visitar_documentos').click(function(){
 
     $.ajax({
 
@@ -15,6 +15,7 @@ $(document).ready(function(){
       success : function(resp){
          
         $('#mostrar_mensaje').text(resp);
+        
       }
 
 
